@@ -31,3 +31,25 @@
 //To get all the publications
 //To get a specific publication - YOUR  TASK
 //To get a list of publications based on a book - YOUR TASK
+
+
+
+//POST REQUEST
+//1. ADD NEW BOOK - DONE
+//2.ADD NEW PUBLICATION -
+//3.ADD NEW AUTHOR
+
+/**********PUT***********/
+//Update book details if author is changed. - DONE
+
+/*****DELETE****/
+//1. Delete a book - DONE
+//2. Delete author from book - UR TASK
+//3. Delete author from book and related book from author -
+
+//Schema - Blueprint of how data has to be constructed
+//MongoDB is schema less
+//mongoose has schema
+//mongoose - validation , relationship with other data.
+//model -> document model of MongoDB
+//Schema -> Model -> use them .
